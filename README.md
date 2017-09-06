@@ -9,4 +9,6 @@ There is one human-against-human mode, and three difficulty levels for human-aga
 
 ![Alt text](OthelloImages/img1.png?raw=true "Title")
 
+
+
 ![Alt text](OthelloImages/img2.png?raw=true "Title")
